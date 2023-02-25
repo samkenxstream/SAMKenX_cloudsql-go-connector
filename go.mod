@@ -9,7 +9,7 @@ require (
 	github.com/jackc/pgx/v4 v4.16.1
 	github.com/pkg/errors v0.9.1 // indirect
 	go.opencensus.io v0.23.0
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858
 	google.golang.org/api v0.84.0
